@@ -1,18 +1,8 @@
  Olá , me chamo Raiane
-
-<! --
-**camilafernanda2/camilafernanda2** é um repositório ✨ _especial_ ✨ porque seu `README.md` (este arquivo) aparece em seu perfil GitHub.
-
-Aqui estão algumas idéias para você começar:
-
-- 🔭 Atualmente estou trabalhando em ...jmhj mhk,h
-- 🌱 Atualmente estou aprendendo ...
-- 👯 Estou procurando colaborar em ...
-- 🤔 Estou procurando ajuda com ...
-- 💬 Pergunte-me sobre ...
-- 📫 Como entrar em contato comigo: ...
-- 😄 Pronomes: ...
-- ⚡ Curiosidade: ...
--->
-
-![Snake animation](https://github.com/seu-usuário-aqui/seu-usuário-aqui/blob/output/github-contribution-grid-snake.svg)
+- 🔭 Atualmente estou trabalhando em informatica
+- 🌱 Atualmente estou aprendendo sobre tecnologia
+- 👯 Estou procurando colaborar em tecnico de informatica
+- 🤔 Estou procurando ajuda com tecnologia
+- 📫 Como entrar em contato comigo pelo telefone (71)988509087
+- ⚡ Curiosidade: para trabalhar nessa area tem que ter pelo menos o segundo bimestre
+![Snake animation](https://github.com/seu-usuário-aqui/seu-usuário-aqui/blob/output/github-contribution-grid-snake.svg
